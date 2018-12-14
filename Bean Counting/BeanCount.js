@@ -1,3 +1,5 @@
+/* Counts the number of times a specific character occurs in a string */
+
 //Case sensitive
 function countBs(someString){
     let count = 0;
