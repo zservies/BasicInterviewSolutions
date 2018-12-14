@@ -1,3 +1,5 @@
+/* Takes an input of parentheses and inserts additional parentheses to balance the string */ 
+
 let bracket_input = prompt("Input parentheses to be matched: ");
 
 function bracketMatch(bracket_string){
